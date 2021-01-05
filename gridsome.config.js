@@ -6,8 +6,23 @@
 
 module.exports = {
   siteName: 'NWA',
-  plugins: [],
-  permalinks: {
-    trailingSlash: false
-  }
+  plugins: [
+    {
+      use: '@gridsome/source-strapi',
+      options: {
+        apiURL: 'http://localhost:1337',
+        queryLimit: 1000,
+        contentTypes: ['post'],
+        // singleTypes: ['impressum']
+      }
+    }
+  ],
+  templates: {
+    StrapiPost: [
+      {
+        path: '/journal/:id',
+        component: './src/templates/JournalPost.vue'
+      }
+    ]
+  },
 }
