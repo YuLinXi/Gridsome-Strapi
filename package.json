@@ -1,0 +1,16 @@
+{
+  "name": "gridsome-strapi",
+  "private": true,
+  "scripts": {
+    "build": "gridsome build",
+    "develop": "gridsome develop",
+    "explore": "gridsome explore"
+  },
+  "dependencies": {
+    "gridsome": "^0.7.0"
+  },
+  "devDependencies": {
+    "less": "^4.0.0",
+    "less-loader": "^7.2.1"
+  }
+}
