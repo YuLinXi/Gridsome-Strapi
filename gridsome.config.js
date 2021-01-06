@@ -10,7 +10,7 @@ module.exports = {
     {
       use: '@gridsome/source-strapi',
       options: {
-        apiURL: 'http://localhost:1337',
+        apiURL: 'http://106.75.92.168:1337',
         queryLimit: 1000,
         contentTypes: ['post'],
         // singleTypes: ['impressum']

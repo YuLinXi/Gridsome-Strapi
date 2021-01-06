@@ -4,10 +4,6 @@
     <list default="true" id="9fd660e4-eaa1-4208-b250-3dddc9682d84" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/gridsome.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/gridsome.config.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/journal/[id].vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/templates/JournalPost.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/journal/index.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/journal/index.vue" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -86,7 +82,7 @@
       <option name="presentableId" value="Default" />
       <updated>1609829109652</updated>
       <workItem from="1609829111640" duration="12660000" />
-      <workItem from="1609854988101" duration="1200000" />
+      <workItem from="1609854988101" duration="4314000" />
     </task>
     <servers />
   </component>
